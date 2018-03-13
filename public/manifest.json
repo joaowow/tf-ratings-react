@@ -1,0 +1,8 @@
+{
+  "short_name": "TF React Ratings",
+  "name": "React Ratings App Demo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

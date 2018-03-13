@@ -1,0 +1,23 @@
+{
+  "name": "tf-react-ratings",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.2.1",
+    "chai": "^4.1.2",
+    "chai-enzyme": "^0.8.0",
+    "cheerio": "^1.0.0-rc.1",
+    "enzyme": "^2.3.0",
+    "react": "^15.0.0",
+    "react-addons-test-utils": "^15.6.2",
+    "react-dom": "^15.0.0",
+    "react-jss": "^8.3.3",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
